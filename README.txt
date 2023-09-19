@@ -1,3 +1,5 @@
+Functional Programming:
+
 This repository contains my implementation of a functional programming project. The project involves creating various functions in Lisp that operate on lists, sets, and perform mathematical computations. 
 
 Project Overview

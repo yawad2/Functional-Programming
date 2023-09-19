@@ -1,4 +1,3 @@
-;;;; CSC 173 Project 3 Lisp
 
 (defun .length (L)
    (if (null L) ;base case
